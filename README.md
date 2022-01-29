@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @FilipTichanek
+- 👋 Hi, I’m @filip_tichanek
 - 👀 I’m interested in Biostatistics
-- 🌱 I’m currently learning Bayesian Data Analysis and Causal Inference
+- 🌱 I’m currently learning Bayesian Data Analysis
 - 📫 How to reach me: f.tichanek@gmail.com
 
 <!---
