@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @filip-tichanek
 - 👀 I’m interested in Biostatistics
-- 🌱 I’m currently learning Bayesian Data Analysis
 - 📫 How to reach me: f.tichanek@gmail.com
 
 <!---
